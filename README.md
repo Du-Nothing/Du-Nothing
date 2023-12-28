@@ -2,6 +2,7 @@
 * 🔭 I’m currently working on Skill Enhancement
 * 🌱 I’m currently learning DSA
 * 💬 Ask me about HTML CSS C C++
+*  📫 How to reach me: durganand2376@gmail.com
 <!--
 **Du-Nothing/Du-Nothing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
