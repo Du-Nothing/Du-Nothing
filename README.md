@@ -1,4 +1,4 @@
-                                                    ### Hi there 👋 This is Durganand..
+############################################################################### Hi there 👋 This is Durganand..
 * 🔭 I’m currently working on Skill Enhancement
 * 🌱 I’m currently learning DSA
 * 💬 Ask me about HTML CSS C C++
