@@ -1,7 +1,7 @@
 [![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=deo4SV06&id=F598CDA3A8B0FEB6FB203835015D212170A0A908&thid=OIP.deo4SV06W8DJAxa1f5u_tQHaCR&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.75ea38495d3a5bc0c90316b57f9bbfb5%3frik%3dCKmgcCEhXQE1OA%26riu%3dhttp%253a%252f%252fwww.pramukhdigital.com%252fwp-content%252fuploads%252f2018%252f07%252fNew-PNC-Animated-Banners.gif%26ehk%3dfs6XGSkrODbDz9LuU2tZgUw5aQd76DxwLvAaGpktUZI%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=590&expw=1920&q=front+end+developer+banner+gif&simid=608028083947117982&FORM=IRPRST&ck=2B6586186960F38268F9B17AE6D3331D&selectedIndex=24&itb=0&ajaxhist=0&ajaxserp=0)]
 <h1 align="center">Hi there 👋, I'm Durganand Singh..</h1>
 <h3 align="center">Frontend developer from India</h3>
-<img align="right" alt="Coding" width="600" src="https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=du-nothing&label=Profile%20views&color=0e75b6&style=flat" alt="du-nothing" /> </p>
 
