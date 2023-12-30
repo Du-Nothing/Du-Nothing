@@ -1,5 +1,5 @@
 ![logo](https://images.cloudclusters.io/1290a2f778b942caa825e9d433e7275f/high-banner.jpg)
-<h1 align="center">Hi there 👋, I'm Durganand Singh..</h1>
+<h1 align="center">Hi there 👋, I'm Durganand Singh...</h1>
 <h3 align="center">Frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif">
 
